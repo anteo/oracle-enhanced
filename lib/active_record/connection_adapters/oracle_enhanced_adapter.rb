@@ -1391,7 +1391,7 @@ require 'active_record/connection_adapters/oracle_enhanced/context_index'
 require 'active_record/connection_adapters/oracle_enhanced/cpk'
 
 # Load patch for dirty tracking methods
-require 'active_record/connection_adapters/oracle_enhanced/dirty'
+# require 'active_record/connection_adapters/oracle_enhanced/dirty'
 
 # Patches and enhancements for schema dumper
 require 'active_record/connection_adapters/oracle_enhanced/schema_dumper'
